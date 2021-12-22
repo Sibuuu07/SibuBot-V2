@@ -3205,7 +3205,7 @@ anu = `──────────────────
 NOTE : _DO NOT SELL BOT SCRIPT_
 ──────────────────
 *👇SCRIPT GITHUB LINK👇*
-https://github.com/Sibuuu07/SibuBot2
+https://github.com/Sibuuu07/SibuBot-V2
 _BASE : Sibu Bot Inc._
 _ORI SCRIPT : 𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 Version 2_
 _OWNER : ${NamaOwner}_
@@ -3300,7 +3300,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
       {
         "urlButton": {
           "displayText": `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 Script`,
-          "url": "https://github.com/Sibuuu07/SibuBot2"
+          "url": "https://github.com/Sibuuu07/SibuBot-V2"
         },
         "index": 0
       }
