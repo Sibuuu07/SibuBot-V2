@@ -16,7 +16,7 @@
 </p>
 
 ## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/SibuBot2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/SibuBot-V2/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -36,18 +36,18 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/Sibuuu07/SibuBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/Sibuuu07/SibuBot-V2/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/Sibuuu07/SibuBot2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/Sibuuu07/SibuBot2/blob/master/settings.json#L12)
+- CHANGE OWNER NUMBER [Here](https://github.com/Sibuuu07/SibuBot-V2/blob/master/settings.json#L10)
+- CHANGE OWNER NAME [Here](https://github.com/Sibuuu07/SibuBot-V2/blob/master/settings.json#L12)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/Sibuuu07/SibuBot2.git
-🦄 cd SibuBot2
+🦄 git clone https://github.com/Sibuuu07/SibuBot-V2.git
+🦄 cd SibuBot-V2
 🦄 npm start
 ```
 ## For Termux
@@ -63,8 +63,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/Sibuuu07/SibuBot2
-🦄 cd SibuBot2
+🦄 git clone https://github.com/Sibuuu07/SibuBot-V2
+🦄 cd SibuBot-V2
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
