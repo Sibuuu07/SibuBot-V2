@@ -1936,6 +1936,7 @@ stamtus =`❏ 「 \`\`\`OTHER MENU\`\`\` 」
 😎 ${prefix}takestick [ name|author ]
 😎 ${prefix}dice
 😎 ${prefix}semoji [ emoji ]
+😎 ${prefix}emoji [emoji]
 😎 ${prefix}attp [text]
 😎 ${prefix}toimg
 😎 ${prefix}tomp3 [ reply video ]
@@ -3206,6 +3207,7 @@ NOTE : _DO NOT SELL BOT SCRIPT_
 ──────────────────
 *👇SCRIPT GITHUB LINK👇*
 https://github.com/Sibuuu07/SibuBot-V2
+My Instagram Account : https://www.instagram.com/sibssssssss/
 _BASE : Sibu Bot Inc._
 _ORI SCRIPT : 𝐒𝐢𝐛𝐮 𝐁𝐨𝐭 Version 2_
 _OWNER : ${NamaOwner}_
@@ -4631,6 +4633,15 @@ break
                     anu1 = await getBuffer(`https://api.xteam.xyz/ttp?file&text=${c}`)
                     alpha.sendMessage(from, anu1, image, {quoted: mek, caption : `${prefix}sticker`})
                     break
+                    case "emoji":
+        if (!q) return fakegroup("the emoji?");
+        qes = args.join(" ");
+        emoji.get(`${qes}`).then((emoji) => {
+          teks = `${emoji.images[4].url}`;
+          sendStickerFromUrl(from, `${teks}`);
+          console.log(teks);
+        });
+        break;
 				case 'semoji':
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 			if (args === 0) return reply('the emoji?')   
