@@ -81,12 +81,19 @@ My Personal Chat👇
 </p>
 Moderator number 👇
 <p align="center">
- <a href="https://wa.me/+16149448340?text=Hy%20Buddy"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+16149448340?text=Hy%20Buddy"><img alt="WhatsApp Bot Chat" src="https://img.shields.io/badge/WhatsApp-Moderator-25D366?style=for-the-badge&logoColor=black"/></a>
+</p>
+My Bot's Numbers👇
+<p align="center">
+ <a href="https://Wa.me/+14106347865?text=#help"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp-Bot&logoColor=black"/></a>
+</p>
+<p align="center">
+ <a href="https://Wa.me/+13433418630?text=#help"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp-Bot&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/Ifa5o3oMZtWJJC6rW3Bew6"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/Ifa5o3oMZtWJJC6rW3Bew6"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-Group-25D366?style=for-the-badge&logoColor=black"/></a>
 </p>
 
 # Thanks To
