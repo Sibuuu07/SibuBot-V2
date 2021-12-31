@@ -87,10 +87,10 @@ Moderator number
 
 My Bot's Numbers
 <p align="center">
- <a href="https://Wa.me/+14106347865?text=#help"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp-Bot&logoColor=black"/></a>
+ <a href="https://Wa.me/+14106347865?text=.help"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp-Bot&logoColor=black"/></a>
 </p>
 <p align="center">
- <a href="https://Wa.me/+13433418630?text=#help"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp-Bot&logoColor=black"/></a>
+ <a href="https://Wa.me/+13433418630?text=.help"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp-Bot&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group
