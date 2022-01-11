@@ -5262,7 +5262,7 @@ _Example:_
 
 _Note :_
 ytmp3 => Music
-ytmp4 => Video`, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:`SEARCH: ${args[0]}`,body:"😎YOUTUBE SEARCH",mediaType:"2",thumbnail:pporigi,mediaUrl:`https://youtu.be/B7DN5miMS3k`}}})
+ytmp4 => Video`, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:`SEARCH: ${args[0]}`,body:"😎YOUTUBE SEARCH",mediaType:"2",thumbnail:pporigi,mediaUrl:`https://youtu.be/mpLX_QAR7kY`}}})
             } catch(e) {
                 reply('Didn\'t find anything or there is any error!')
                 reply(`Error: ${e.message}`)
