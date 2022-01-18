@@ -132,7 +132,7 @@ require('./XeonDoge.js')
 nocache("./index.js", (module) => console.log(`${module} is now updated!`))
 const starts = async (sibuBot = new WAConnection()) => {
 	sibuBot.logger.level = 'warn'
-	sibuBot.version = [2, 2143, 3]
+	sibuBot.version = [2, 2149, 4]
 	console.log(color(`\x1b[1;37m> ${tampilUcapan}\n`,'cyan'))
 	console.log(color(figlet.textSync('Sibu Bot', {
 		font: 'Standard',
