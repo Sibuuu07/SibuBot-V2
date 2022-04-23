@@ -22,9 +22,9 @@ const settings = JSON.parse(fs.readFileSync('./settings.json'))
 baterai = 'unknown'
 charging = 'unknown'
 
-const time = moment.tz('Asia/Jakarta').format('HH:mm:ss')			
-const wita = moment.tz('Asia/Makassar').format('HH:mm:ss')			
-const wit = moment.tz('Asia/Jayapura').format('HH:mm:ss')	
+const time = moment.tz('Asia/Kolkata').format('HH:mm:ss')			
+const wita = moment.tz('Asia/Kolkata').format('HH:mm:ss')			
+const wit = moment.tz('Asia/Kolkata').format('HH:mm:ss')	
 
 var date = new Date();
 
